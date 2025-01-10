@@ -36,6 +36,4 @@ Skilled full-stack developer with a proven track record of delivering robust and
 </p>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=mujtabaayaz&count_private=true&show_icons=true&locale=en&theme=vision-friendly-dark" alt="mujtabaayaz" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mujtabaayaz&count_private=true&theme=vision-friendly-dark" alt="mujtabaayaz" />
-</p>
+
